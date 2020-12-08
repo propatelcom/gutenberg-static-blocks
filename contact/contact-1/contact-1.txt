@@ -1,0 +1,83 @@
+<!-- wp:columns {"className":"contact-figure"} -->
+<div class="wp-block-columns contact-figure"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>PHONE</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<i class="fa fa-phone"></i>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>+92 312 2728183</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>+92 312 2728183</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>ADDRESS</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<i class="fa fa-phone"></i>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>M019, Alphamed Building, Behind Abu Hail Park, next to Max showroom parking, Dubai, UAE</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>Email</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<i class="fa fa-phone"></i>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="propatel2@gmail.com">propatel2@gmail.com</a></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:html -->
+<style>
+.contact-figure .wp-block-column{
+text-align: center;
+border: 1px dashed #074670;
+padding: 40px 10px;
+margin-bottom: 30px;
+}
+.contact-figure .wp-block-column h2 {
+color: #074670;
+padding: 0 0 5px;
+border-bottom: 2px solid;
+display: inline-block;
+margin: 0 0 20px;
+font-size: 1.6rem;
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing: 2px;
+}
+.contact-figure .wp-block-column i {
+display: block;
+font-weight: 600;
+color: #d4d4d4;
+margin: 5px auto 10px;
+font-size: 30px;
+}
+.contact-figure .wp-block-column p {
+display: block;
+font-size: 14px;
+font-weight: 600;
+margin: 0 0 10px;
+}
+.contact-figure .wp-block-column a, .contact-figure .wp-block-column strong {color: #5c5959;}
+</style>
+<!-- /wp:html -->

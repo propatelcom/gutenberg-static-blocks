@@ -1,1 +1,1 @@
-# gutenberg-static-blocks
+# Gutenberg-Static-Block
