@@ -1,10 +1,10 @@
 {
-"name": "Contact 1",
-"image": "contact-1/contact-1.png",
-"url" : "contact-1/contact-1.txt"
+"name": "Contact",
+"image": "contact.jpg",
+"url" : "contact"
 },
 {
-"name": "Contact 1",
-"image": "contact-2/contact-2.png",
-"url" : "contact-2/contact-2.txt"
+"name": "Full Width",
+"image": "full-width.jpg",
+"url" : "full-width"
 },
