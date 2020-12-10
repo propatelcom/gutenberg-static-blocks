@@ -1,1 +1,10 @@
-asdfasdfsf
+{
+"name": "Contact",
+"image": "contact.jpg",
+"url" : "contact"
+},
+{
+"name": "Full Width",
+"image": "full-width.jpg",
+"url" : "fullwidth"
+},
