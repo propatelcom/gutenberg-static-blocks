@@ -8,3 +8,23 @@
 "image": "contact-2/contact-2.png",
 "url" : "contact-2/contact-2.txt"
 },
+{
+"name": "Contact 1",
+"image": "contact-1/contact-1.png",
+"url" : "contact-1/contact-1.txt"
+},
+{
+"name": "Contact 1",
+"image": "contact-2/contact-2.png",
+"url" : "contact-2/contact-2.txt"
+},
+{
+"name": "Contact 1",
+"image": "contact-1/contact-1.png",
+"url" : "contact-1/contact-1.txt"
+},
+{
+"name": "Contact 1",
+"image": "contact-2/contact-2.png",
+"url" : "contact-2/contact-2.txt"
+},
